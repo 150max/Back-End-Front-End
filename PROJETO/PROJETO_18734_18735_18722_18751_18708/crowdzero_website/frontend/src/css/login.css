@@ -1,0 +1,28 @@
+
+.container{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    display: flex;
+
+}
+
+.card-body{
+    background-color: #163443;
+    color:white;
+    float:center;
+    width: 10%;
+}
+
+.btn{
+      margin-top: 2%;
+      float: center;
+      color: black;
+      background-color: #40AA97;
+      width: 100%;
+}
+ 
+.logo{
+      display: block;
+      margin: auto;
+      width: 30%;
+}

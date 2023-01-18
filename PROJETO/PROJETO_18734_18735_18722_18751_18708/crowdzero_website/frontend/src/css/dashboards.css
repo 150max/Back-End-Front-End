@@ -1,0 +1,89 @@
+.mapa{
+    height: 70vh;
+    width: 40vw; 
+}
+.data1{
+    margin: auto;
+    width: fit-content;
+    font-size: 150%;
+}
+.data2{
+    margin: auto;
+    width: fit-content;
+    font-size: 150%;
+}
+.titulo{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-size: 200%;
+    color: #40AA97;
+}
+.titulo2{
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+    font-size: 200%;
+    color: #40AA97;
+}
+.texto{
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    color: #7E7E7E;
+}
+.texto2{
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    color: #ffffff;
+}
+.txtalerta{
+    margin: auto;
+    width: fit-content;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.float-container {
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+input {
+    text-align: center;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    background-color: #163443;
+}
+
+.maisup{
+    background-color: rgba(120,120,120, 0.2);
+    border-radius: 15px;
+}
+
+.report_single{
+    font-family: "Helvetica", sans-serif;
+    margin: auto;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: #163443;
+    margin-top: 2%;
+    border-radius: 15px;
+}
+
+.baixo1{
+    margin-top: 5%;
+}

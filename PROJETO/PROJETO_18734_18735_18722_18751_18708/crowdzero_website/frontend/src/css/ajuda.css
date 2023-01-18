@@ -1,0 +1,25 @@
+.APD{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 4%;
+    font-family: "Helvetica", sans-serif;
+    margin-bottom: 5%;
+}
+
+.Titajuda{
+    color: #40AA97;
+}
+
+.Txtajuda{
+    margin-top: 2%;
+    font-size: 25px;
+    color: azure;
+}
+
+.TitajudaC{
+    margin:auto;
+    width: 17%;
+    background-color: #40AA97;
+    border-radius: 10px;
+}

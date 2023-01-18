@@ -1,0 +1,140 @@
+body{
+  background-image: url('imagens/background.jpg');
+
+}
+
+.btn{
+  color: white;
+  background-color: #40AA97;
+float: right;
+left: 0%;
+}
+
+#titulo1{  
+  margin: auto;
+  margin-top: 10%;
+  width: 50%;
+  vertical-align:middle;
+  width: fit-content;
+  color: azure;
+  background-color: #40AA97;
+  border-radius: 50px;
+  padding: 14px 28px;
+  font-size: 30px;
+}
+#titulo2{
+  
+  margin: auto;
+  margin-top: 10%;
+  width: 50%;
+  vertical-align:middle;
+  width: fit-content;
+  color: azure;
+  background-color: #40AA97;
+  border-radius: 50px;
+  padding: 14px 28px;
+  font-size: 30px;
+}
+#titulo3{  
+  margin: auto;
+  margin-top: 10%;
+  width: 50%;
+  vertical-align:middle;
+  width: fit-content;
+  color: azure;
+  background-color: #40AA97;
+  border-radius: 50px;
+  padding: 14px 28px;
+  font-size: 30px;
+}
+#descricao1{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  justify-content: center;
+  vertical-align: middle;
+  margin-top: 1%;
+  width: fit-content;
+  color: white;
+  font-size: 16px;
+}
+
+#descricao2{
+  margin: auto;
+  margin-bottom: 10%;
+  width: 50%;
+  padding: 10px;
+  justify-content: center;
+  vertical-align: middle;
+  margin-top: 1%;
+  width: fit-content;
+  color: white;
+  font-size: 16px;
+
+}
+#descricao3{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  justify-content: center;
+  vertical-align: middle;
+  margin-top: 1%;
+  width: fit-content;
+  color: white;
+  font-size: 16px;
+
+}
+.logo
+{
+  color: azure;
+  text-transform: uppercase;
+  margin-left: 1%;
+  letter-spacing: 2px;
+  font-size: 20px;
+}
+
+.float-child {
+  font-family: "Helvetica", sans-serif;
+  height: 100%;
+  width: 50%;
+  float: left;
+}  
+.texto{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  color: #7E7E7E;
+}
+
+.mapahp{
+  margin-top: 10%;
+}
+
+a{
+  text-decoration: none;
+}
+
+#apk{  
+  margin: auto;
+  margin-top: 10%;
+  width: 50%;
+  vertical-align:middle;
+  width: fit-content;
+  color: azure;
+  background-color: #40AA97;
+  border-radius: 50px;
+  padding: 14px 28px;
+  font-size: 30px;
+}
+
+#apk:hover{
+  background-color:#163443;
+}
+
+.downlaod{
+  display: block;
+ width:1px ;
+ height: 1px;
+}

@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden
+}
+nav{
+    display: flex;
+    align-items: center;
+    min-height: 8vh;
+    background-color: #163443;
+}
+.navbar-dark .navbar-brand { 
+    color: #fff;
+}
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #40AA97;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.55);
+}
+.titulo{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-size: 200%;
+    color: #40AA97;
+}
+.mapa{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+
+}
+.concentracao{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+    text-align: center;
+    font-size: 300%;
+    color: #40AA97;
+}
+.reports{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+    text-align: center;
+    font-size: 300%;
+    color: #40AA97;
+}
+.texto{
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    color: #7E7E7E;
+}
+.baixo{
+    margin-top: 40%;
+}
+.geral{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    vertical-align: center;
+    margin-top: 10%;
+    margin-bottom: 15.7%;
+}
+.float-container {
+    padding: 20px;
+}
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}  
+
+.mapa{
+    height: 70vh;
+    width: 40vw; 
+}
+
+.loading{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-size: 200%;
+    color: #40AA97;
+}
